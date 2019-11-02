@@ -1,0 +1,183 @@
+
+div#welcome {
+	float: left; 
+	width: 210px; 
+}
+
+div#welcome h2 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/heading-ssbse2011.gif") 0px 0px no-repeat; 
+width: 166px; height: 27px 
+		
+}
+
+div#welcome p {
+	text-align: left;
+}
+
+p.first {
+	margin-top: 7px;
+	font-size: 12pt;
+}
+
+div#info {
+	float: left; 
+	width: 220px; 
+	margin-left: 35px	
+}
+
+div#photos {
+	float: right;
+	width: 460px; 
+	position: relative;
+}
+
+div#photos noscript img {
+	border: 5px solid white;
+}
+
+div#keydates h2 {
+	background: url("../images/heading-keydates-front.gif") 0px 0px no-repeat !important;
+}
+
+.pika-wrap {
+	width: 520px; 
+	margin: 0 auto;
+}
+
+.pika-image {
+	position: relative; 
+	height: 338px; 
+	width: 450px; 
+	background: white; 
+	padding: 6px;
+}
+
+.pika-image .animation, 
+.pika-image .main-image {
+	position: absolute; 
+	top: 6px; 
+	left: 6px;
+}
+
+.pika-image .animation {
+	display: none;
+	z-index: 2;
+}
+
+.pika-image img {
+	border: 0;
+}
+	
+.pika-thumbs {
+	margin: 0px 0px 0px 2px; 
+	padding: 0; 
+	overflow: hidden; 
+}
+
+.pika-thumbs li {
+	float: left; 
+	list-style-type: none; 
+	margin: 0 7px; 
+	background: #white; 
+	border: 3px white solid;
+	cursor: pointer;
+}
+
+.pika-thumbs li:last {
+	margin: 0;
+}
+
+.pika-thumbs li .clip {
+	width: 55px; 
+	height: 55px; 
+	text-align: center; 
+	vertical-align: center; 
+	overflow: hidden;
+}
+
+.jcarousel-skin-pika .jcarousel-container-horizontal {
+    padding: 10px 0px;
+}
+
+.jcarousel-skin-pika .jcarousel-item-horizontal {
+    margin-right: 10px;
+}
+
+div#keydates h2 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/heading-keydates-normal.gif") 0px 0px no-repeat; 
+width: 185px; height: 38px 
+	
+}
+
+div#keydates ul {
+	padding:0; 
+	margin:10px 0 20px 3px; 
+	list-style:none;
+}
+
+div#keydates li:first-child {
+	border-top: #565656 1px dotted;
+}
+
+div#keydates li {	
+	overflow: hidden;
+	font-size: 9pt;
+	border-bottom: #565656 1px dotted;
+	position: relative;
+	padding: 5px 0px 5px 0px;
+}
+
+div#keydates div.date, div.near-date, div.past-date {
+	color: #c3d833;
+	font-size: 13pt;
+	display: block;
+	float: left;
+}
+
+div#keydates div.past-date {
+	text-decoration:line-through;
+}
+
+div#keydates div.near-date {
+	color: #88dff4;
+}
+
+div#keydates div.event {
+	position: absolute;
+	bottom: 7px;
+	left: 65px;
+}
+
+
+div#latestnews h2 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/heading-latestnews.gif") 0px 0px no-repeat; 
+width: 215px; height: 30px 
+	
+}
+
+div#latestnews ul {
+	padding: 0; 
+	margin: 10px 0 0 3px; 
+	list-style: none; 
+}
+
+div#latestnews li:first-child {
+	border-top: #565656 1px dotted;
+}
+
+div#latestnews li {
+	font-size: 9pt;
+	border-bottom: #565656 1px dotted;
+	padding: 8px 10px 8px 25px;
+	color: white;	
+	background: url("../images/bullet.gif") 10px 16px no-repeat;
+}

@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SSBSE 2011</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description>The Third Symposium on Search Based Software Engineering</description>
+        <item>
+            <title>IMG_0047</title>
+            <link>slides/IMG_0047.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0047.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0047.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0047.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0048</title>
+            <link>slides/IMG_0048.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0048.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0048.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0048.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0049</title>
+            <link>slides/IMG_0049.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0049.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0049.JPG" width="841" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0049.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0050</title>
+            <link>slides/IMG_0050.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0050.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0050.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0050.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0052</title>
+            <link>slides/IMG_0052.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0052.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0052.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0052.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0053</title>
+            <link>slides/IMG_0053.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0053.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0053.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0053.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0055</title>
+            <link>slides/IMG_0055.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0055.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0055.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0055.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0056</title>
+            <link>slides/IMG_0056.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0056.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0056.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0056.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0057</title>
+            <link>slides/IMG_0057.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0057.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0057.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0057.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0062</title>
+            <link>slides/IMG_0062.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0062.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0062.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0062.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0063</title>
+            <link>slides/IMG_0063.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0063.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0063.JPG" width="855" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0063.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0064</title>
+            <link>slides/IMG_0064.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0064.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0064.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0064.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0065</title>
+            <link>slides/IMG_0065.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0065.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0065.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0065.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0067</title>
+            <link>slides/IMG_0067.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0067.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0067.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0067.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0068</title>
+            <link>slides/IMG_0068.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0068.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0068.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0068.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0069</title>
+            <link>slides/IMG_0069.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0069.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0069.JPG" width="840" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0069.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_00693</title>
+            <link>slides/IMG_00693.jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_00693.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_00693.jpg" width="825" height="600"/>
+            <guid isPermaLink="false">slides/IMG_00693.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0071</title>
+            <link>slides/IMG_0071.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0071.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0071.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0071.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0073</title>
+            <link>slides/IMG_0073.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0073.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0073.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0073.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0074</title>
+            <link>slides/IMG_0074.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0074.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0074.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0074.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0075</title>
+            <link>slides/IMG_0075.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0075.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0075.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0075.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0077</title>
+            <link>slides/IMG_0077.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0077.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0077.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0077.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0078</title>
+            <link>slides/IMG_0078.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0078.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0078.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0078.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0079</title>
+            <link>slides/IMG_0079.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0079.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0079.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0079.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0080</title>
+            <link>slides/IMG_0080.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0080.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0080.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0080.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0081</title>
+            <link>slides/IMG_0081.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0081.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0081.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0081.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0082</title>
+            <link>slides/IMG_0082.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0082.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0082.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0082.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0083</title>
+            <link>slides/IMG_0083.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0083.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0083.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0083.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0085</title>
+            <link>slides/IMG_0085.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0085.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0085.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0085.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0086</title>
+            <link>slides/IMG_0086.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0086.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0086.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0086.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0087</title>
+            <link>slides/IMG_0087.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0087.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0087.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0087.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0088</title>
+            <link>slides/IMG_0088.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0088.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0088.JPG" width="854" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0088.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0089</title>
+            <link>slides/IMG_0089.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0089.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0089.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0089.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_00905</title>
+            <link>slides/IMG_00905.jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_00905.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_00905.jpg" width="449" height="600"/>
+            <guid isPermaLink="false">slides/IMG_00905.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0091</title>
+            <link>slides/IMG_0091.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0091.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0091.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0091.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0092</title>
+            <link>slides/IMG_0092.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0092.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0092.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0092.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_00924</title>
+            <link>slides/IMG_00924.jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_00924.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_00924.jpg" width="899" height="600"/>
+            <guid isPermaLink="false">slides/IMG_00924.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0093</title>
+            <link>slides/IMG_0093.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0093.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0093.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0093.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0094</title>
+            <link>slides/IMG_0094.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0094.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0094.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0094.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0095</title>
+            <link>slides/IMG_0095.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0095.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0095.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0095.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0096</title>
+            <link>slides/IMG_0096.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0096.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0096.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0096.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0097</title>
+            <link>slides/IMG_0097.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0097.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0097.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0097.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0098</title>
+            <link>slides/IMG_0098.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0098.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0098.JPG" width="815" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0098.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_00985</title>
+            <link>slides/IMG_00985.jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_00985.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_00985.jpg" width="900" height="317"/>
+            <guid isPermaLink="false">slides/IMG_00985.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0099</title>
+            <link>slides/IMG_0099.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0099.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0099.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0099.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0100</title>
+            <link>slides/IMG_0100.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0100.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0100.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0100.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0109</title>
+            <link>slides/IMG_0109.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0109.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0109.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0109.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0110</title>
+            <link>slides/IMG_0110.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0110.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0110.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0110.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0111</title>
+            <link>slides/IMG_0111.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0111.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0111.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0111.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0112</title>
+            <link>slides/IMG_0112.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0112.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0112.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0112.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0113</title>
+            <link>slides/IMG_0113.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0113.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0113.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0113.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0114</title>
+            <link>slides/IMG_0114.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0114.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0114.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0114.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0116</title>
+            <link>slides/IMG_0116.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0116.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0116.JPG" width="805" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0116.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0117</title>
+            <link>slides/IMG_0117.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0117.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0117.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0117.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0118</title>
+            <link>slides/IMG_0118.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0118.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0118.JPG" width="801" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0118.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0119 (2)</title>
+            <link>slides/IMG_0119 (2).jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0119 (2).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0119 (2).jpg" width="801" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0119 (2).jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0120</title>
+            <link>slides/IMG_0120.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0120.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0120.JPG" width="801" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0120.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0122</title>
+            <link>slides/IMG_0122.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0122.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0122.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0122.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0123</title>
+            <link>slides/IMG_0123.jpg#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0123.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0123.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0123.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0124</title>
+            <link>slides/IMG_0124.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0124.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0124.JPG" width="900" height="599"/>
+            <guid isPermaLink="false">slides/IMG_0124.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0125</title>
+            <link>slides/IMG_0125.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0125.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0125.JPG" width="899" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0125.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0129</title>
+            <link>slides/IMG_0129.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0129.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0129.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0129.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0130</title>
+            <link>slides/IMG_0130.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0130.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0130.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0130.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0131</title>
+            <link>slides/IMG_0131.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0131.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0131.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0131.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0132</title>
+            <link>slides/IMG_0132.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0132.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0132.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0132.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0133</title>
+            <link>slides/IMG_0133.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0133.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0133.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0133.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0134</title>
+            <link>slides/IMG_0134.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0134.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0134.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0134.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0135</title>
+            <link>slides/IMG_0135.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0135.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0135.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0135.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0136</title>
+            <link>slides/IMG_0136.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0136.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0136.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0136.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0137</title>
+            <link>slides/IMG_0137.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0137.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0137.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0137.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0138</title>
+            <link>slides/IMG_0138.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0138.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0138.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0138.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0139</title>
+            <link>slides/IMG_0139.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0139.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0139.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0139.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0140</title>
+            <link>slides/IMG_0140.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0140.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0140.JPG" width="899" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0140.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0141</title>
+            <link>slides/IMG_0141.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0141.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0141.JPG" width="900" height="539"/>
+            <guid isPermaLink="false">slides/IMG_0141.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0142</title>
+            <link>slides/IMG_0142.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0142.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0142.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0142.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0143</title>
+            <link>slides/IMG_0143.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0143.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0143.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0143.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0144</title>
+            <link>slides/IMG_0144.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0144.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0144.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0144.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0145</title>
+            <link>slides/IMG_0145.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0145.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0145.JPG" width="900" height="540"/>
+            <guid isPermaLink="false">slides/IMG_0145.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0146</title>
+            <link>slides/IMG_0146.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0146.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0146.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0146.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0148</title>
+            <link>slides/IMG_0148.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0148.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0148.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0148.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0152</title>
+            <link>slides/IMG_0152.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0152.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0152.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0152.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0153</title>
+            <link>slides/IMG_0153.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0153.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0153.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0153.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0154</title>
+            <link>slides/IMG_0154.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0154.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0154.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0154.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0155</title>
+            <link>slides/IMG_0155.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0155.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0155.JPG" width="900" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0155.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0156</title>
+            <link>slides/IMG_0156.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0156.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0156.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0156.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0161</title>
+            <link>slides/IMG_0161.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0161.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0161.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0161.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0163</title>
+            <link>slides/IMG_0163.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0163.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0163.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0163.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0164</title>
+            <link>slides/IMG_0164.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0164.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0164.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0164.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0165</title>
+            <link>slides/IMG_0165.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0165.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0165.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0165.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0166</title>
+            <link>slides/IMG_0166.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0166.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0166.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0166.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0167</title>
+            <link>slides/IMG_0167.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0167.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0167.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0167.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0168</title>
+            <link>slides/IMG_0168.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0168.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0168.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0168.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0169</title>
+            <link>slides/IMG_0169.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0169.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0169.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0169.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0170</title>
+            <link>slides/IMG_0170.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0170.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0170.JPG" width="900" height="539"/>
+            <guid isPermaLink="false">slides/IMG_0170.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0171</title>
+            <link>slides/IMG_0171.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0171.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0171.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0171.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0172</title>
+            <link>slides/IMG_0172.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0172.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0172.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0172.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0173</title>
+            <link>slides/IMG_0173.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0173.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0173.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0173.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0174</title>
+            <link>slides/IMG_0174.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0174.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0174.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0174.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0175</title>
+            <link>slides/IMG_0175.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0175.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0175.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0175.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0176</title>
+            <link>slides/IMG_0176.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0176.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0176.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0176.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0177</title>
+            <link>slides/IMG_0177.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0177.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0177.JPG" width="900" height="539"/>
+            <guid isPermaLink="false">slides/IMG_0177.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0179</title>
+            <link>slides/IMG_0179.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0179.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0179.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0179.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0190</title>
+            <link>slides/IMG_0190.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0190.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0190.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0190.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0195</title>
+            <link>slides/IMG_0195.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0195.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0195.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0195.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0199</title>
+            <link>slides/IMG_0199.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0199.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0199.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0199.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0200</title>
+            <link>slides/IMG_0200.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0200.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0200.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0200.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0204</title>
+            <link>slides/IMG_0204.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0204.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0204.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0204.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0212</title>
+            <link>slides/IMG_0212.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0212.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0212.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0212.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0214</title>
+            <link>slides/IMG_0214.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0214.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0214.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0214.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0222</title>
+            <link>slides/IMG_0222.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0222.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0222.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0222.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0223</title>
+            <link>slides/IMG_0223.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0223.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0223.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0223.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0246</title>
+            <link>slides/IMG_0246.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0246.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0246.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0246.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0247</title>
+            <link>slides/IMG_0247.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0247.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0247.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0247.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0249</title>
+            <link>slides/IMG_0249.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0249.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0249.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0249.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_02491</title>
+            <link>slides/IMG_02491.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_02491.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_02491.JPG" width="900" height="540"/>
+            <guid isPermaLink="false">slides/IMG_02491.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0250</title>
+            <link>slides/IMG_0250.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0250.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0250.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0250.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0251</title>
+            <link>slides/IMG_0251.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0251.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0251.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0251.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0252</title>
+            <link>slides/IMG_0252.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0252.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0252.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0252.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_02522</title>
+            <link>slides/IMG_02522.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_02522.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_02522.JPG" width="799" height="600"/>
+            <guid isPermaLink="false">slides/IMG_02522.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0258</title>
+            <link>slides/IMG_0258.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0258.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0258.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0258.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0259</title>
+            <link>slides/IMG_0259.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0259.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0259.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0259.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0260</title>
+            <link>slides/IMG_0260.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0260.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0260.JPG" width="900" height="539"/>
+            <guid isPermaLink="false">slides/IMG_0260.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0262</title>
+            <link>slides/IMG_0262.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0262.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0262.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0262.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0263</title>
+            <link>slides/IMG_0263.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0263.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0263.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0263.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0264</title>
+            <link>slides/IMG_0264.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0264.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0264.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0264.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0265</title>
+            <link>slides/IMG_0265.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0265.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0265.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0265.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0266</title>
+            <link>slides/IMG_0266.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0266.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0266.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0266.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0267</title>
+            <link>slides/IMG_0267.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0267.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0267.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0267.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0269</title>
+            <link>slides/IMG_0269.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0269.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0269.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0269.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0270</title>
+            <link>slides/IMG_0270.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0270.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0270.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0270.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0271</title>
+            <link>slides/IMG_0271.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0271.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0271.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0271.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0272</title>
+            <link>slides/IMG_0272.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0272.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0272.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0272.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0274</title>
+            <link>slides/IMG_0274.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0274.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0274.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0274.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0279</title>
+            <link>slides/IMG_0279.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0279.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0279.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0279.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0280</title>
+            <link>slides/IMG_0280.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0280.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0280.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0280.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0281</title>
+            <link>slides/IMG_0281.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0281.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0281.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0281.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0282</title>
+            <link>slides/IMG_0282.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0282.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0282.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0282.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0283</title>
+            <link>slides/IMG_0283.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0283.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0283.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0283.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0284</title>
+            <link>slides/IMG_0284.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0284.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0284.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0284.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0285</title>
+            <link>slides/IMG_0285.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0285.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0285.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0285.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0286</title>
+            <link>slides/IMG_0286.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0286.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0286.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0286.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0287</title>
+            <link>slides/IMG_0287.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0287.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0287.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0287.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0288</title>
+            <link>slides/IMG_0288.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0288.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0288.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0288.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0289</title>
+            <link>slides/IMG_0289.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0289.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0289.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0289.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0290</title>
+            <link>slides/IMG_0290.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0290.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0290.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0290.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0291</title>
+            <link>slides/IMG_0291.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0291.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0291.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0291.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0292</title>
+            <link>slides/IMG_0292.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0292.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0292.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0292.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0293</title>
+            <link>slides/IMG_0293.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0293.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0293.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0293.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0294</title>
+            <link>slides/IMG_0294.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0294.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0294.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0294.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0295</title>
+            <link>slides/IMG_0295.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0295.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0295.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0295.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0296</title>
+            <link>slides/IMG_0296.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0296.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0296.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0296.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0297</title>
+            <link>slides/IMG_0297.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0297.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0297.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0297.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0298</title>
+            <link>slides/IMG_0298.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0298.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0298.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0298.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0299</title>
+            <link>slides/IMG_0299.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0299.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0299.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0299.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0300</title>
+            <link>slides/IMG_0300.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0300.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0300.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0300.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0301</title>
+            <link>slides/IMG_0301.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0301.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0301.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0301.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0306</title>
+            <link>slides/IMG_0306.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0306.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0306.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0306.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0308</title>
+            <link>slides/IMG_0308.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0308.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0308.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0308.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0309</title>
+            <link>slides/IMG_0309.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0309.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0309.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0309.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0310</title>
+            <link>slides/IMG_0310.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0310.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0310.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0310.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0311</title>
+            <link>slides/IMG_0311.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0311.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0311.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0311.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0312</title>
+            <link>slides/IMG_0312.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0312.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0312.JPG" width="900" height="540"/>
+            <guid isPermaLink="false">slides/IMG_0312.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0313</title>
+            <link>slides/IMG_0313.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0313.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0313.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0313.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0314</title>
+            <link>slides/IMG_0314.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0314.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0314.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0314.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0316</title>
+            <link>slides/IMG_0316.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0316.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0316.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0316.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0317</title>
+            <link>slides/IMG_0317.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0317.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0317.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0317.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0318</title>
+            <link>slides/IMG_0318.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0318.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0318.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0318.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0319</title>
+            <link>slides/IMG_0319.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0319.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0319.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0319.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0320</title>
+            <link>slides/IMG_0320.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0320.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0320.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0320.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0321</title>
+            <link>slides/IMG_0321.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0321.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0321.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0321.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0323</title>
+            <link>slides/IMG_0323.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0323.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0323.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0323.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0324</title>
+            <link>slides/IMG_0324.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0324.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0324.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0324.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0325</title>
+            <link>slides/IMG_0325.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0325.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0325.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0325.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0327</title>
+            <link>slides/IMG_0327.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0327.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0327.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0327.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0328</title>
+            <link>slides/IMG_0328.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0328.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0328.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0328.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0329</title>
+            <link>slides/IMG_0329.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0329.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0329.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0329.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0330</title>
+            <link>slides/IMG_0330.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0330.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0330.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0330.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0331</title>
+            <link>slides/IMG_0331.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0331.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0331.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0331.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0332</title>
+            <link>slides/IMG_0332.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0332.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0332.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0332.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0336</title>
+            <link>slides/IMG_0336.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0336.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0336.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0336.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0337</title>
+            <link>slides/IMG_0337.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0337.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0337.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0337.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0340</title>
+            <link>slides/IMG_0340.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0340.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0340.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0340.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0341</title>
+            <link>slides/IMG_0341.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0341.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0341.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0341.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0342</title>
+            <link>slides/IMG_0342.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0342.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0342.JPG" width="900" height="540"/>
+            <guid isPermaLink="false">slides/IMG_0342.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0344</title>
+            <link>slides/IMG_0344.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0344.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0344.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0344.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0345</title>
+            <link>slides/IMG_0345.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0345.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0345.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0345.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0347</title>
+            <link>slides/IMG_0347.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0347.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0347.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0347.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0350</title>
+            <link>slides/IMG_0350.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0350.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0350.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0350.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0351</title>
+            <link>slides/IMG_0351.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0351.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0351.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0351.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0352</title>
+            <link>slides/IMG_0352.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0352.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0352.JPG" width="449" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0352.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0353</title>
+            <link>slides/IMG_0353.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0353.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0353.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0353.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0354</title>
+            <link>slides/IMG_0354.JPG#</link>
+            <pubDate>Fri, 16 Sep 2011 13:12:12 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0354.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/IMG_0354.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0354.JPG</guid>
+        </item>
+    </channel>
+</rss>

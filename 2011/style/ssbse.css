@@ -1,0 +1,416 @@
+
+body {
+	font-family: arial, sans-serif;
+	font-size: 11pt;
+	background-color: #0d0d0d;
+	color: white;
+	margin: 0px;
+}
+
+p, li {
+	line-height:1.5;
+}
+
+div.float-container {
+	overflow: hidden;
+}
+
+div.clear-floats {
+	clear: both;
+}
+
+strong {
+	color: #009ec2;
+	font-weight: normal;
+}
+
+a {
+	color: #c3d833;
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: 1px dotted #c3d833;
+}
+
+a img, a:hover img {
+	display: block;
+	border: 0 !important;
+}
+
+div#body-wrapper {
+	width: 950px;
+	margin-left: auto; 
+	margin-right: auto;  
+	margin-bottom: 20px;
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+}
+
+div#content {
+	padding: 20px 2px 30px 2px;
+}
+
+div#content h1 {
+	margin: 0px 0px 10px 0px !important;
+}
+
+div#content p {
+	text-align: justify;
+}
+
+div#content div#leftcontentcolumn {
+	float: left;
+	width: 700px;
+}
+
+div#content h2 {
+	color: #009ec2;
+	font-weight: normal;
+	font-size: 14pt;
+	margin: 20px 0px 10px 0px;
+}
+
+div#content h3 {
+	font-size: 13pt;
+	font-weight: normal;
+}
+
+.standout {
+	font-size: 11pt;
+}
+
+div#header {
+	height: 200px; 	
+	position: relative;
+}
+
+div#header h1 {
+	position: absolute; left: 0px; top: 60px; 	
+}
+
+div#header h1 a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/logo-ssbse.gif") 0px 0px no-repeat; 
+width: 400px; height: 116px 
+}
+
+div#header h2 {
+	position: absolute; left: 696px; top: 81px; 
+	background: url("images/dates.gif") 0px 0px no-repeat;
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/dates.gif") 0px 0px no-repeat; 
+width: 127px; height: 35px 
+}
+
+div#header h3 {
+	position: absolute; left: 697px; top: 108px; 
+	padding-top: 14px;
+	margin: 0;
+}
+
+/*	
+div#header h3 a {	
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/colocation.gif") 0px 0px no-repeat; 
+width: 168px; height: 9px 
+}
+*/
+
+div#header h3 a {	
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/colocation2.gif") 0px 0px no-repeat; 
+width: 199px; height: 12px 
+}
+
+div#facebook {
+	position: absolute; top: 30px; right: 40px;
+}
+
+div#facebook a {	
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/facebook.gif") 0px 0px no-repeat; 
+width: 16px; height: 16px 
+}
+
+div#twitter {
+	position: absolute; top: 30px; right: 20px;	
+}
+
+div#twitter a {	
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/twitter.gif") 0px 0px no-repeat; 
+width: 16px; height: 16px 
+}
+
+div#linkedin {
+	position: absolute; top: 30px; right: 0px;	
+}
+
+div#linkedin a {	
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/linkedin.gif") 0px 0px no-repeat; 
+width: 16px; height: 16px 
+}
+
+div#footer {
+	border-top: #565656 1px dotted;
+	border-bottom: #565656 1px dotted;	
+	padding: 5px 0px 5px 0px;
+	margin: 0px 0px 20px 0px;
+	font-size: 8pt;
+}
+
+div#footer-box {
+	position: relative;
+	background-color: #212121;
+	padding: 10px 10px 0px 10px;
+}
+
+div#footer-about {
+	text-align: justify;
+	float: left;
+	width: 295px;
+	margin-right: 20px;
+	
+}
+
+div#footer-about h2 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/footer-about.gif") 0px 0px no-repeat; 
+width: 126px; height: 18px 
+	
+}
+
+div#footer-sponsors {
+	float: left;
+	width: 330px;	
+}
+
+div#footer-sponsors h2 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/footer-sponsors.gif") 0px 0px no-repeat; 
+width: 103px; height: 18px 
+;
+	margin-top: 4px !important;
+}
+
+div#sponsor-box { 
+	background: white; 
+	padding: 3px; 
+	margin: 10px 0px 10px 0px;
+}
+
+div#sponsor-box div { 
+	background: white; 
+	border: 1px dotted #565656; 
+	text-align: center;
+}
+
+div#sponsor-box a:hover {
+	border: 0;
+}
+
+div#sponsor-box img {
+	display: inline;
+	margin: 5px 5px 0px 5px;
+}
+
+div#footer-credits {
+	position: absolute; 
+	bottom: 0px; right: 0px;
+	text-align: right;
+	padding-right: 10px;
+}
+
+div#menu {
+	height: 17px;
+	border-top: #565656 1px dotted;
+	border-bottom: #565656 1px dotted;	
+	margin: 5px 0px 0px 0px;
+	padding: 6px 2px 5px 2px;
+}
+
+div#menu ul {
+	list-style: none;
+	padding: 0;
+	margin: 0; 
+}
+
+div#menu li {
+	float: left;
+	margin: 0px 5px 0px 0px;
+}
+
+div#menu li {
+	padding-left: 14px;
+	background:url("../images/menu-sep.gif") 2px 0px no-repeat;
+}
+
+div#menu li:first-child {
+	padding-left: 0;
+	background: 0;
+}
+
+div#menu li#about a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-about.gif") 0px 0px no-repeat; 
+width: 50px; height: 17px 
+	
+}
+
+div#menu li#callforpapers a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-callforpapers.gif") 0px 0px no-repeat; 
+width: 122px; height: 17px 
+	
+}
+
+div#menu li#dates a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-dates.gif") 0px 0px no-repeat; 
+width: 46px; height: 17px 
+	
+}
+
+div#menu li#fastabstracts a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-fastabstracts.gif") 0px 0px no-repeat; 
+width: 113px; height: 17px 
+	
+}
+
+
+div#menu li#home a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-home.gif") 0px 0px no-repeat; 
+width: 48px; height: 17px 
+	
+}
+
+div#menu li#keynotes a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-keynotes.gif") 0px 0px no-repeat; 
+width: 77px; height: 17px 
+	
+}
+
+div#menu li#organizers a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-organizers.gif") 0px 0px no-repeat; 
+width: 90px; height: 17px 
+	
+}
+
+div#menu li#panel a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-panel.gif") 0px 0px no-repeat; 
+width: 48px; height: 17px 
+	
+}
+
+div#menu li#papersubmission a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-submission.gif") 0px 0px no-repeat; 
+width: 98px; height: 17px 
+	
+}
+
+div#menu li#photos a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-photos.gif") 0px 0px no-repeat; 
+width: 60px; height: 17px 
+	
+}
+
+div#menu li#prizes a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-prizes.gif") 0px 0px no-repeat; 
+width: 51px; height: 17px 
+	
+}
+
+div#menu li#program a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-program.gif") 0px 0px no-repeat; 
+width: 74px; height: 17px 
+	
+}
+
+div#menu li#registration a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-registration.gif") 0px 0px no-repeat; 
+width: 100px; height: 17px 
+	
+}
+
+div#menu li#specialissue a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-specialissue.gif") 0px 0px no-repeat; 
+width: 107px; height: 17px 
+	
+}
+
+div#menu li#tutorials a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-tutorials.gif") 0px 0px no-repeat; 
+width: 72px; height: 17px 
+	
+}
+
+div#menu li#venue a {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/menu-venue.gif") 0px 0px no-repeat; 
+width: 52px; height: 17px 
+	
+}

@@ -1,0 +1,13 @@
+
+div#content h1 {
+	font-size: 0; color: #0d0d0d; 
+text-indent: -1000em; display: block; text-decoration: none; 
+margin: 0; padding: 0; border: 0; 
+background: url("../images/h1-fastabstracts.gif") 0px 0px no-repeat; 
+width: 300px; height: 36px 
+;
+}
+
+li {
+	padding-bottom: 5px;
+}
