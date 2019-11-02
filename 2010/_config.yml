@@ -1,0 +1,10 @@
+title: SSBSE 2010
+url: ""
+baseurl: ""
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      infobox: false
+      layout: "default"
