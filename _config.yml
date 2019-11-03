@@ -1,0 +1,30 @@
+title: SSBSE
+url: ""
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "2009"
+    values:
+      infobox: false
+      layout: "2009/default"
+  -
+    scope:
+      path: "2010"
+    values:
+      infobox: false
+      layout: "2010/default"
+  -
+    scope:
+      path: "2011"
+    values:
+      layout: "2011/default"
+  -
+    scope:
+      path: "2014"
+    values:
+      layout: none
