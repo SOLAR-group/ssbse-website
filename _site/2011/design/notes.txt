@@ -1,9 +1,0 @@
-These sizes may only be correct in Jon's PSD files:
-
-Menu links are plain 18pt Museo 700
-
-Headings are plain 36pt Museo 700, sometimes followed by Museo 300
-
-Page headings are plain 48pt Museo 700
-
-Organizing committee h2 headings are 24pt Museo 300
