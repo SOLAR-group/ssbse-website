@@ -3,7 +3,7 @@
 <h3>{{edition.location}}</h3>
 
 {%- if edition.website != null and edition.website %}
-<a class="fa fa-globe" href="{{site.url}}{{edition.website}}" title="SSBSE {{edition.year}} homepage" target="_blank">Website</a>
+<a class="fa fa-globe" href="{{site.url}}{{site.baseurl}}{{edition.website}}" title="SSBSE {{edition.year}} homepage" target="_blank">Website</a>
 {%- endif %}
 
 {%- if edition.proceedings != null and edition.proceedings %}

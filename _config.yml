@@ -17,7 +17,7 @@ description: Symponsium on Search Base Software Engineering
 # url: ""
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "/ssbse-website"
 
 # --- Navigation bar options --- #
 
