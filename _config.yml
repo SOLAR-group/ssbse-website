@@ -3,6 +3,9 @@
 # Name of website
 title: SSBSE
 
+# Next SSBSE edition
+next-edition: 2020
+
 # Short description of your site
 description: Symponsium on Search Base Software Engineering
 
@@ -11,20 +14,12 @@ description: Symponsium on Search Base Software Engineering
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: ""
+# url: ""
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -51,8 +46,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
+navbar-img: "/img/bgimage.png"
+footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -95,6 +90,14 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "SSBSE Home"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Collections ---
+# A collection named foo is located in folder "_foo".
+# Each file inside "_foo" corresponds to an item of that collection.
+collections:
+  steering_committee:
+    output: true
+    sort_by: name
 
 # --- Web Statistics Section --- #
 
@@ -160,7 +163,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+#permalink: /:year-:month-:day-:title/
 # paginate: 5
 
 kramdown:
@@ -179,6 +182,7 @@ defaults:
   -
     scope:
       path: "" # all files
+      type: "pages"
     values:
       layout: "page"
       show-avatar: true

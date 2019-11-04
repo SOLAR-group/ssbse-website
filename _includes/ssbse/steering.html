@@ -1,0 +1,19 @@
+<h1 class="text-center"><a class="anchor" id="steering"></a>Steering Committee</h1>
+<br/>
+<div class="container-fluid">
+	{%- for member in site.steering_committee %}
+	<div class="row">
+		<div class="col-xs-3 col-sm-2">
+			<img src="{{member.picture}}" />
+		</div>
+		<div class="col-xs-auto">
+			<h2>{{member.title}} {{member.name}}</h2>
+			<h3>{{member.organisation}}</h3>
+			<h4><a class="fa fa-home" href="{{member.website}}" target="_blank">Home Page</a></h4>
+		</div>
+		<div class="col-xs-auto text-justify">
+			{{member.content | markdownify}}
+		</div>
+	</div>
+	{%- endfor %}
+</div>

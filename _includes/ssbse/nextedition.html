@@ -1,0 +1,5 @@
+<div class="text-center">
+	<a class="anchor" id="next"></a>
+	{%- assign edition = site.data.editions | where: "year", site.next-edition | first -%}
+	{% include ssbse/edition.html %}
+</div>
