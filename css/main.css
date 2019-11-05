@@ -837,3 +837,23 @@ a.anchor {
   margin-top: -15px;
   width: 420px;
 }
+
+.badge {
+  background-color: RoyalBlue;
+}
+
+.link-badge  {
+  background-color: Maroon;
+}
+
+.badge-place-1st {
+  background-color: GoldenRod;
+}
+
+.badge-place-2nd {
+  background-color: Silver;
+}
+
+.badge-place-3rd {
+  background-color: Peru;
+}

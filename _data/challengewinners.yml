@@ -1,0 +1,37 @@
+- year: 2009
+  winners:
+    - authors: Foo Bar, Foo Bar and Foo Bar
+      title: Abstract title for testing
+      link: http://www.google.com
+      place: 1st
+    - authors: Foo Bar
+      title: Abstract title for testing 2
+      place: 3rd
+    - authors: Bar Foo
+      title: Abstract title for testing 3
+      place: 2nd
+
+- year: 2011
+  winners:
+    - authors: Foo Bar, Foo Bar and Foo Bar
+      title: Abstract title for testing
+      link: http://www.google.com
+    - authors: Foo Bar
+      title: Abstract title for testing 2
+      place: 4th
+    - authors: Bar Foo
+      title: Abstract title for testing 3
+      link: http://www.google.com
+
+- year: 2010
+  winners:
+    - authors: Foo Bar, Foo Bar and Foo Bar
+      title: Abstract title for testing
+      link: http://www.google.com
+      place: 1st
+    - authors: Foo Bar
+      title: Abstract title for testing 2
+      place: 2nd
+    - authors: Bar Foo 3
+      title: Abstract -- SSBSE
+      place: 3rd
