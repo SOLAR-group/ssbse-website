@@ -1,9 +1,9 @@
 <h1 class="text-center"><a class="anchor" id="past"></a>Past Editions</h1>
 <br/>
-<div class="container-fluid">
+<div class="container-fluid d-flex justify-content-center editionscontainer">
 	{%- assign editions = site.data.editions | where_exp: "edition", "edition.year != site.next-edition" | sort: "year" | reverse -%}
 	{% for edition in editions %}
-	<div class="col-xs-12 col-sm-6 col-lg-3">
+	<div class="caption editionbox">
 		{% include ssbse/edition.html %}
 	</div>
 	{%- endfor %}

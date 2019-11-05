@@ -6,6 +6,9 @@ title: SSBSE
 # Next SSBSE edition
 next-edition: 2020
 
+# SSBSE Charter
+charter: /SSBSE-charter.pdf
+
 # Short description of your site
 description: Symponsium on Search Base Software Engineering
 
@@ -94,10 +97,6 @@ url-pretty: "SSBSE Home"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Collections ---
 # A collection named foo is located in folder "_foo".
 # Each file inside "_foo" corresponds to an item of that collection.
-collections:
-  steering_committee:
-    output: true
-    sort_by: name
 
 # --- Web Statistics Section --- #
 

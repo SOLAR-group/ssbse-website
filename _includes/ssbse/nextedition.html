@@ -1,5 +1,9 @@
-<div class="text-center">
-	<a class="anchor" id="next"></a>
-	{%- assign edition = site.data.editions | where: "year", site.next-edition | first -%}
-	{% include ssbse/edition.html %}
+<a class="anchor" id="next"></a>
+<div class="container-fluid text-center">
+	<h1>Next Edition</h1>
+	<br/>
+	<div class="caption">
+		{%- assign edition = site.data.editions | where: "year", site.next-edition | first -%}
+		{% include ssbse/edition.html %}
+	</div>
 </div>

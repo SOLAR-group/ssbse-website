@@ -2,57 +2,68 @@
   website: /2009
   location: Windsor, United Kingdom
   proceedings: https://www.computer.org/csdl/proceedings/ssbse/2009/3675/00/index.html
+  edition: 1st
 
 - year: 2010
   website: /2010
   location: Benevento, Italy
   proceedings: https://www.computer.org/csdl/proceedings/ssbse/2010/4195/00/index.html
+  edition: 2nd
 
 - year: 2011
   website: /2011
   location: Szeged, Hungary
   proceedings: https://link.springer.com/book/10.1007/978-3-642-23716-4
+  edition: 3rd
 
 - year: 2012
-  website: /2012
+  website: http://selab.fbk.eu/ssbse2012/
   location: Riva del Garda, Trento, Italy
   proceedings: https://link.springer.com/book/10.1007/978-3-642-33119-0
+  edition: 4th
 
 - year: 2013
   website: /2013
   location: St. Petersburg, Russia
   proceedings: https://link.springer.com/book/10.1007/978-3-642-39742-4
+  edition: 5th
 
 - year: 2014
   website: /2014
   location: Fortaleza, Brazil
   proceedings: https://link.springer.com/book/10.1007/978-3-319-09940-8
+  edition: 6th
 
 - year: 2015
   website: /2015
   location: Bergamo, Milan, Italy
   proceedings: https://link.springer.com/book/10.1007/978-3-319-22183-0
+  edition: 7th
 
 - year: 2016
-  website: null
   location: Raleigh, North Carolina, USA
   proceedings: https://link.springer.com/book/10.1007/978-3-319-47106-8
+  edition: 8th
 
 - year: 2017
-  website: /2017
+  website: http://ssbse17.github.io/
   location: Paderborn, Germany
   proceedings: https://link.springer.com/book/10.1007/978-3-319-66299-2
+  edition: 9th
 
 - year: 2018
-  website: /2018
+  website: http://ssbse18.irisa.fr/
   location: Montpellier, France
   proceedings: https://link.springer.com/book/10.1007/978-3-319-99241-9
+  edition: 10th
 
 - year: 2019
-  website: /2019
+  website: http://ssbse19.mines-albi.fr/
   location: Tallinn, Estonia
   proceedings: https://link.springer.com/book/10.1007/978-3-030-27455-9
+  edition: 11th
 
 - year: 2020
-  website: /2020
+  website: http://collab.di.uniba.it/ssbse2020/
   location: Bari, Italy
+  edition: 12th

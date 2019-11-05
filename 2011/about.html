@@ -18,13 +18,14 @@ css: about.css
 </div>
 
 <div id="ssbse">
-
+	{%- assign ssbse2009 = site.data.editions | where: 'year', 2009 | first -%}
+	{%- assign ssbse2010 = site.data.editions | where: 'year', 2010 | first -%}
 	<h2>Symposium on Search Based Software Engineering (SSBSE)</h2>
 
 	<p>The objective of the Symposium on Search Based Software Engineering (SSBSE) is to bring the rapidly growing international search based software engineering community together in a welcoming forum for discussion and dissemination, as well as to sustain the flourishing of interest in the field from researchers and practitioners in software engineering and metaheuristic search alike.</p>
 	
 	<p>SSBSE 2011 intends to further participation from the wider software engineering research community through co-location with the internationally renowned joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering - <a href="http://2011.esec-fse.org/">ESEC/FSE 2011</a> - to be held in Szeged, Hungary. <a href="venue.html">more »</a></p> 
 
-	<p>SSBSE 2011 is the third international symposium on search based software engineering, and  will further build on the success of the inaugural symposium, <a href="{{site.url}}{{site.baseurl}}/2009">SSBSE 2009</a>, held in Windsor, UK; and the second symposium, <a href="{{site.url}}{{site.baseurl}}/2010">SSBSE 2010</a>, held in Benevento, Italy.</p>
+	<p>SSBSE 2011 is the third international symposium on search based software engineering, and  will further build on the success of the inaugural symposium, <a href="{{ssbse2009.website | absolute_url}}">SSBSE 2009</a>, held in Windsor, UK; and the second symposium, <a href="{{ssbse2010.website | absolute_url}}">SSBSE 2010</a>, held in Benevento, Italy.</p>
 
 </div>

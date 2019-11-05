@@ -1,0 +1,82 @@
+- title: Dr.
+  name: Federica Sarro (Chair)
+  website: http://www0.cs.ucl.ac.uk/staff/F.Sarro/
+  organisation: University College London (UCL), UK
+  picture: img/steering_committee/federica.jpg
+  terms:
+    - start: 2019
+      end: 2021
+
+- title: Professor
+  name: Phil McMinn
+  website: https://www.sheffield.ac.uk/dcs/people/academic/pmcminn
+  organisation: The University of Sheffield, UK
+  picture: img/steering_committee/phil.jpg
+  terms:
+    - start: 2019
+      end: 2021
+
+- title: Professor
+  name: Tim Menzies
+  website: http://menzies.us/
+  organisation: NC State University, US
+  picture: img/steering_committee/tim.jpg
+  terms:
+    - start: 2018
+      end: 2020
+
+- title: Dr.
+  name: Annibale Panichella
+  website: https://apanichella.github.io/
+  organisation: Delft University of Technology, NL
+  picture: img/steering_committee/annibale.jfif
+  terms:
+    - start: 2018
+      end: 2020
+
+- title: Professor
+  name: Shin Yoo
+  website: https://coinse.kaist.ac.kr/members/shin.yoo/
+  organisation: Korea Advanced Institute of Science and Technology, KR
+  picture: img/steering_committee/shin.png
+  terms:
+    - start: 2019
+      end: 2021
+
+- title: Dr.
+  name: Gregory Gay
+  website: https://greg4cr.github.io/
+  organisation: University of Gothenburg, SE
+  picture: img/steering_committee/gregory.jpg
+  terms:
+    - start: 2017
+      end: 2019
+    - start: 2020
+      end: 2022
+
+- title: Dr.
+  name: Shaukat Ali
+  website: https://www.simula.no/people/shaukat
+  organisation: Simula Research Laboratory, NO
+  picture: img/steering_committee/shaukat.jpg
+  terms:
+    - start: 2020
+      end: 2022
+
+- title: Dr.
+  name: Mike Papadakis
+  website: https://sites.google.com/site/mikepapadakis/
+  organisation: University of Luxembourg, LU
+  picture: img/steering_committee/mike.jfif
+  terms:
+    - start: 2020
+      end: 2022
+
+- title: Dr.
+  name: Thomas Vogel
+  website: https://thomas-vogel.github.io/
+  organisation:  Humboldt-Universität zu Berlin, DE
+  picture: img/steering_committee/thomas.jpg
+  terms:
+    - start: 2020
+      end: 2022
