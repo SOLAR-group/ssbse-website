@@ -16,7 +16,7 @@
 					{%- assign terms = member.terms | sort: 'end' -%}
 					<h2>{{member.title}} {{member.name}}</h2>
 					<h3>{{member.organisation}}</h3>
-					<h4><a class="fa fa-home" href="{{member.website}}" target="_blank">Home Page</a></h4>
+					<h4><a class="fa fa-home" href="{{member.website}}" target="_blank"> Home Page</a></h4>
 					<h5>Terms:
 					{% for term in terms %}
 						{{term.start}} - 
