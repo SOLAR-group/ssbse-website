@@ -3,6 +3,14 @@ layout: page
 title: Hall of Fame
 ---
 
-{% include ssbse/bestpapers.html %}
+{%- assign editions = site.data.bestpapers | sort: "year" | reverse -%}
+<h1 class="text-center">Best Paper Awards</h1>
+<br/>
+{% include ssbse/awards.html %}
+
 <hr/>
-{% include ssbse/challengewinners.html %}
+
+{%- assign editions = site.data.challengewinners | sort: "year" | reverse -%}
+<h1 class="text-center">Challenge Winners</h1>
+<br/>
+{% include ssbse/awards.html %}

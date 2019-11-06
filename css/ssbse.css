@@ -63,6 +63,7 @@ a.anchor {
 
 .badge {
   background-color: RoyalBlue;
+  margin-left: 2px;
 }
 
 .link-badge  {

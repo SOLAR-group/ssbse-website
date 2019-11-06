@@ -1,40 +1,62 @@
-- year: 2009
-  winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      track: Main Track
-      link: http://www.google.com
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      track: Fast Abstract
-    - authors: Bar Foo
-      title: Abstract title for testing 3
-      track: Students
-
 - year: 2011
   winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      track: Main Track
-      link: http://www.google.com
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      track: Fast Abstract
-    - authors: Bar Foo
-      title: Abstract title for testing 3
-      track: Students
-      link: http://www.google.com
+    - authors: Best Reviewer Prize
+      title: Dr. Márcio Barros
+      track: Best Reviewer
+      link: http://www.uniriotec.br/~marcio.barros/
+    - authors: Shin Yoo, Mark Harman and Shmuel Ur
+      title: Highly Scalable Multi Objective Test Suite Minimisation Using Graphics Cards
+      track: Research Track
+      link: http://www0.cs.ucl.ac.uk/staff/M.Harman/ssbse11-sy.pdf
 
-- year: 2010
+- year: 2013
   winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      track: Main Track
-      link: http://www.google.com
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      track: Fast Abstract
-      link: http://www.google.com
-    - authors: Bar Foo
-      title: Abstract title for testing 3
-      track: Students
+    - authors: Brendan Cody-Kenny and Stephen Barrett
+      title: The Emergence of Useful Bias in Self-focusing Genetic Programming for Software Optimisation
+      track: Student Track
+      link: https://link.springer.com/chapter/10.1007/978-3-642-39742-4_29
+    - authors: Lionel Briand, Yvan Labiche and Kathy Chen
+      title: A Multi-Objective Genetic Algorithm to Rank State-Based Test Cases
+      track: Research Track
+      link: https://dl.acm.org/citation.cfm?id=2946721
+
+- year: 2014
+  winners:
+    - authors: Shadi Ghaith, Miao Wang, Philip Perry and John Murphy
+      title: Transaction Profile Estimation of Queueing Network Models for IT Systems Using A Search-based Technique
+      track: Student Track
+      link: https://link.springer.com/chapter/10.1007%2F978-3-319-09940-8_18
+
+- year: 2015
+  winners:
+    - authors: Altino Dantas, Italo Yeltsin, Allysson Allex Araújo and Jerffeson Souza
+      title: Interactive Software Release Planning with Preferences Base.
+      track: Industry Relevant // Student
+      link: https://link.springer.com/chapter/10.1007/978-3-319-22183-0_32
+    - authors: José Miguel Rojas, José Campos, Mattia Vivanti, Gordon Fraser and Andrea Arcuri
+      title: Combining Multiple Coverage Criteria in Search-Based Unit Test Generation
+      track: Industry Relevant
+      link: https://link.springer.com/chapter/10.1007/978-3-319-22183-0_7
+    - authors: Fang Yuan, Yi Bian, Zheng Li and Ruilian Zhao
+      title: Epistatic Genetic Algorithm for Test Case Prioritization
+      track: Actual Industry Data
+      link: https://link.springer.com/chapter/10.1007/978-3-319-22183-0_8
+
+- year: 2018
+  subtitle: Special 10th Anniversary
+  winners:
+    - authors: Professor Enrique Alba
+      title: How Can Metaheuristics Help Software Engineers?
+      track: Most Voted Keynote
+      place: 1st
+      link: https://www.computer.org/csdl/proceedings/ssbse/2009/3675/00/3675z021-abs.html
+    - authors: Daniel Pinto Coutinho, Fabrício Gomes de Freitas, Jerffeson Teixeira de Souza and Camila Loiola Maia
+      title: The Human Competitiveness of Search Based Software Engineering
+      track: Most Voted Paper
+      place: 1st
+      link: https://www.computer.org/csdl/proceedings-article/ssbse/2010/4195a143/12OmNASraN1
+    - authors: Professor Gordon Fraser
+      title: Search-based unit test generation with EvoSuite
+      track: Most Voted Tutorial
+      place: 1st
+      link: http://ssbse17.github.io/tutorials/

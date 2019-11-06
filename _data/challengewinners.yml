@@ -1,37 +1,17 @@
-- year: 2009
+- year: 2013
   winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      link: http://www.google.com
-      place: 1st
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      place: 3rd
-    - authors: Bar Foo
-      title: Abstract title for testing 3
-      place: 2nd
+    - authors: Márcio Barros and Fábio Farzat
+      title: What can a Big Program Teach us about Optimization?
+      link: https://link.springer.com/chapter/10.1007/978-3-642-39742-4_24
 
-- year: 2011
+- year: 2014
   winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      link: http://www.google.com
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      place: 4th
-    - authors: Bar Foo
-      title: Abstract title for testing 3
-      link: http://www.google.com
+    - authors: Mark Harman, W B Langdon and Yue Jia
+      title: "Babel Pidgin: SBSE can grow and graft entirely new functionality into a real world system"
+      link: http://link.springer.com/chapter/10.1007%2F978-3-319-09940-8_20
 
-- year: 2010
+- year: 2015
   winners:
-    - authors: Foo Bar, Foo Bar and Foo Bar
-      title: Abstract title for testing
-      link: http://www.google.com
-      place: 1st
-    - authors: Foo Bar
-      title: Abstract title for testing 2
-      place: 2nd
-    - authors: Bar Foo 3
-      title: Abstract -- SSBSE
-      place: 3rd
+    - authors: Yuanyuan Zhang, Mark Harman, Yue Jia and Federica Sarro
+      title: Inferring Test Models from Kate’s Bug Reports using Multi-objective Search
+      link: http://www0.cs.ucl.ac.uk/staff/F.Sarro/resource/papers/ssbse15cp.pdf

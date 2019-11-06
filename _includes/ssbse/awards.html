@@ -1,15 +1,14 @@
-<h1 class="text-center">Best Paper Awards</h1>
-<br/>
 <div class="container-fluid">
-	{%- assign editions = site.data.bestpapers | order: "year" | reverse -%}
 	{%- for edition in editions -%}
 		<div class="panel panel-default">
-			<div class="panel-heading"><h2>{{edition.year}}</h2></div>
+			<div class="panel-heading"><h2>{{edition.year}}{%- if edition.subtitle -%}: <small><b>{{edition.subtitle}}</b></small>{%- endif -%}</h2></div>
 			<ul class="list-group list-group-flush panel-body">
-				{%- for paper in edition.winners -%}
+				{%- assign papers = edition.winners | sort: "place", "last" -%}
+				{%- for paper in papers -%}
 					<li class="list-group-item">
-						<span class="badge" title="Track">{{paper.track}}</span>
 						{%- if paper.link -%}<a class="badge fa fa-link link-badge" href="{{paper.link | absolute_url}}" target="_blank"> Link</a>{%- endif -%}
+						<span class="badge" title="Track">{{paper.track}}</span>
+						<span class="badge badge-place-{{paper.place}}" title="Place">{{paper.place}}</span>
 						<h3 class="list-group-item-heading">{{paper.title}}</h3>
 						<h5 class="list-group-item-text">{{paper.authors}}</h5>
 					</li>				
