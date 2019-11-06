@@ -54,6 +54,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/bgimage.png"
 footer-img: "/img/bgimage.png"
+edition-box-img: "/img/edition-box-background.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -188,6 +189,11 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+  -
+    scope:
+      path: "css" # all files
+    values:
+      layout: null
   -
     scope:
       path: "2009"

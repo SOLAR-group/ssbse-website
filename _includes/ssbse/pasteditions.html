@@ -3,8 +3,8 @@
 <div class="container-fluid d-flex justify-content-center editionscontainer">
 	{%- assign editions = site.data.editions | where_exp: "edition", "edition.year != site.next-edition" | sort: "year" | reverse -%}
 	{% for edition in editions %}
-	<div class="caption editionbox">
-		{% include ssbse/edition.html %}
-	</div>
+		<div class="caption editionbox">
+			{% include ssbse/edition.html %}	
+		</div>
 	{%- endfor %}
 </div>

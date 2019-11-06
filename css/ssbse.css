@@ -1,3 +1,5 @@
+---
+---
 /* --- Giovani Created This --- */
 
 /* --- General --- */
@@ -14,13 +16,18 @@ a.anchor {
 .editionbox {
   border: solid 1px Gainsboro;
   border-radius: 3px;
-  background: Snow;
   font-style: normal;
   margin: 15px;
   display: inline-block;
   vertical-align: center;
   max-width: 100%;
   width: 360px;
+  {% if site.edition-box-img %}
+  background-image: url({{ site.edition-box-img | relative_url }});
+  background-attachment: inherit;
+  {% else %}
+  background: Snow;
+  {% endif %}
 }
 
 .editionscontainer{
@@ -29,34 +36,17 @@ a.anchor {
 
 /* --- Steering Members --- */
 
-.steeringbox{
-  justify-content: flex-start | flex-end | center | space-between | space-around; width: 100%;
-}
-
-.steeringmember {
-  padding: 20px;
-  display: inline-block;
-  vertical-align: top;
-  width: 570px;
-  max-width: 100%;
-}
-
 .steeringpic {
   height: 150px;
   width: 100px;
   object-fit: cover;
   vertical-align: top;
   padding: 5px;
-  display: inline-block;
 }
-
 .steeringdetails {
-  display: inline-block;
   vertical-align: top;
   padding: 5px;
   margin-top: -15px;
-  width: 420px;
-  max-width: 100%;
 }
 
 /* --- Hall of Fame --- */

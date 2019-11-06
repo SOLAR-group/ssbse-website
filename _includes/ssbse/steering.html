@@ -1,20 +1,22 @@
 <h1 class="text-center"><a class="anchor" id="steering"></a>Steering Committee</h1>
 <br/>
-<div class="steeringbox">
+<div class="container-fluid">
 	{%- assign thisyear = site.time | date: '%Y' | to_integer -%}
 	{%- for member in site.data.steering %}
 		{%- assign arraysize = member.terms | where_exp: "term","term.end >= thisyear" | size -%}
 		{%- assign nullarraysize = member.terms | where_exp: "term","term.end == null" | size -%}
 		{%- if arraysize > 0 or nullarraysize > 0 -%}
-			<div class="steeringmember">
-				{% if {{member.picture}} %}
-					<img class="steeringpic" src="{{member.picture}}" />
-				{% else %}
-					<img class="steeringpic" src="img/steering_committee/avatar.png" />
-				{% endif %}
-				<div class="steeringdetails">
+			<div class="media">
+				<div class="media-left media-top">
+					{% if {{member.picture}} %}
+						<img class="media-object steeringpic" src="{{member.picture}}" />
+					{% else %}
+						<img class="media-object steeringpic" src="img/steering_committee/avatar.png" />
+					{% endif %}
+				</div>
+				<div class="media-body steeringdetails">
 					{%- assign terms = member.terms | sort: 'end' -%}
-					<h2>{{member.title}} {{member.name}}</h2>
+					<h2 class="media-heading">{{member.title}} {{member.name}}</h2>
 					<h3>{{member.organisation}}</h3>
 					<h4><a class="fa fa-home" href="{{member.website}}" target="_blank"> Home Page</a></h4>
 					<h5>Terms:
