@@ -278,6 +278,8 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 plugins:
+  - jekyll-gist
+  - jekyll-twitter-plugin
 #  - jekyll-paginate
 #  - jekyll-sitemap
 
