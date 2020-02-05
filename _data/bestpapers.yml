@@ -19,6 +19,10 @@
       title: A Multi-Objective Genetic Algorithm to Rank State-Based Test Cases
       track: Research Track
       link: https://dl.acm.org/citation.cfm?id=2946721
+    - authors: Márcio Barros and Fábio Farzat
+      title: What can a Big Program Teach us about Optimization?
+      link: https://link.springer.com/chapter/10.1007/978-3-642-39742-4_24
+      track: Challenge
 
 - year: 2014
   winners:
@@ -26,6 +30,10 @@
       title: Transaction Profile Estimation of Queueing Network Models for IT Systems Using A Search-based Technique
       track: Student Track
       link: https://link.springer.com/chapter/10.1007%2F978-3-319-09940-8_18
+    - authors: Mark Harman, W B Langdon and Yue Jia
+      title: "Babel Pidgin: SBSE can grow and graft entirely new functionality into a real world system"
+      link: http://link.springer.com/chapter/10.1007%2F978-3-319-09940-8_20
+      track: Challenge
 
 - year: 2015
   winners:
@@ -41,6 +49,17 @@
       title: Epistatic Genetic Algorithm for Test Case Prioritization
       track: Actual Industry Data
       link: https://link.springer.com/chapter/10.1007/978-3-319-22183-0_8
+    - authors: Yuanyuan Zhang, Mark Harman, Yue Jia and Federica Sarro
+      title: Inferring Test Models from Kate’s Bug Reports using Multi-objective Search
+      link: http://www0.cs.ucl.ac.uk/staff/F.Sarro/resource/papers/ssbse15cp.pdf
+      track: Challenge
+
+- year: 2016
+  winners:
+    - authors: Gregory Gay
+      title: "Challenges in Using Search-Based Test Generation to Identify Real Faults in Mockito"
+      link: https://link.springer.com/chapter/10.1007/978-3-319-47106-8_17
+      track: Challenge
 
 - year: 2018
   subtitle: Special 10th Anniversary
@@ -60,3 +79,22 @@
       track: Most Voted Tutorial
       place: 1st
       link: http://ssbse17.github.io/tutorials/
+    - authors: Gregory Gay
+      title: "Detecting Real Faults in the Gson Library Through Search-Based Unit Test Generation"
+      link: https://link.springer.com/chapter/10.1007/978-3-319-99241-9_25
+      track: Challenge
+
+- year: 2019
+  winners:
+    - authors: Reviewer Appreciation Award
+      title: Professor Robert Feldt
+      track: Reviewer Appreciation Award
+      link: http://www.robertfeldt.net/
+    - authors: Annibale Panichella
+      title: A Systematic Comparison of Search Algorithms for Topic Modelling - A Study on Duplicate Bug Report Identification
+      track: Research Track
+      link: https://link.springer.com/chapter/10.1007/978-3-030-27455-9_2
+    - authors: Justyna Petke and Alexander E. I. Brownlee
+      title: "Software Improvement with Gin: A Case Study"
+      link: https://link.springer.com/chapter/10.1007/978-3-030-27455-9_14
+      track: Challenge
