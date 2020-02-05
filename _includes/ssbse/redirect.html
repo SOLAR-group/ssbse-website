@@ -1,0 +1,7 @@
+{%- assign edition = site.data.editions | where:"year",page.year | first -%}
+<head>
+	<meta http-equiv="refresh" content="0; {{edition.website}}" />
+</head>
+<body>
+	Redirecting you to <a href="{{edition.website}}" title="New Website">{{edition.website}}</a> ...
+</body>
