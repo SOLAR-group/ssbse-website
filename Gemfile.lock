@@ -245,10 +245,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (= 197)
+  github-pages
   jekyll-paginate
   jekyll-twitter-plugin
   tzinfo-data
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
