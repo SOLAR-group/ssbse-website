@@ -105,3 +105,22 @@
       title: "Software Improvement with Gin: A Case Study"
       link: https://link.springer.com/chapter/10.1007/978-3-030-27455-9_14
       track: Challenge
+
+- year: 2020
+  winners:
+    - authors: Shaukat Ali, Paolo Arcaini and Tao Yue
+      title: Do Quality Indicators Prefer Particular Multi-Objective Search Algorithms in Search-Based Software Engineering?
+      track: Research Track
+      link: https://link.springer.com/chapter/10.1007/978-3-030-59762-7_3
+    - authors: Christoph Frädrich, Adina Deiner, Sophia Geserer, Niklas Zantner and Gordon Fraser
+      title: Search-based Testing for Scratch Programs
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-59762-7_5
+      track: Research Track
+    - authors: Pouria Derakhshanfar, Xavier Devroey and Andy Zaidman
+      title: "It Is Not Only About Control Dependent Nodes: Basic Block Coverage for Search-Based Crash Reproduction"
+      link: https://link.springer.com/chapter/10.1007/978-3-030-59762-7_4
+      track: Research Track
+    - authors: Stephan Lukasczyk, Florian Kroiß and Gordon Fraser
+      title: Automated Unit Test Generation for Python
+      link: https://link.springer.com/chapter/10.1007/978-3-030-59762-7_2
+      track: Research Track
