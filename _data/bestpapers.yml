@@ -124,3 +124,14 @@
       title: Automated Unit Test Generation for Python
       link: https://link.springer.com/chapter/10.1007/978-3-030-59762-7_2
       track: Research Track
+
+- year: 2021
+  winners:
+    - authors: Xinyi Wang, Paolo Arcaini, Tao Yue and Shaukat Ali
+      title: Generating Failing Test Suites for Quantum Programs with Search
+      track: Research Track
+      link: https://link.springer.com/chapter/10.1007/978-3-030-88106-1_2
+    - authors: Giovani Guizzo, Aymeric Blot, James Callan, Justyna Petke and Federica Sarro
+      title: "Refining Fitness Functions for Search-Based Automated Program Repair: A Case Study with ARJA and ARJA-e"
+      track: Challenge
+      link: https://link.springer.com/chapter/10.1007/978-3-030-88106-1_12
