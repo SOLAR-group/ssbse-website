@@ -6,3 +6,5 @@ gem "github-pages", group: :jekyll_plugins
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
 gem 'jekyll-twitter-plugin', group: :jekyll_plugins
+gem "kramdown", ">= 2.3.1"
+gem "activesupport", ">= 4.1.11"
