@@ -8,3 +8,4 @@ gem 'jekyll-paginate'
 gem 'jekyll-twitter-plugin', group: :jekyll_plugins
 gem "kramdown", ">= 2.3.1"
 gem "activesupport", ">= 4.1.11"
+gem "nokogiri", ">= 1.12.5"
