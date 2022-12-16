@@ -2,8 +2,9 @@
 <br/>
 <div class="container-fluid">
 	{%- assign thisyear = site.time | date: '%Y' | to_integer -%}
-	{%- for member in site.data.steering %}
-		{%- assign arraysize = member.terms | where_exp: "term","term.end >= thisyear" | size -%}
+	{%- assign members = site.data.steering | sort: "name" -%}
+	{%- for member in members %}
+		{%- assign arraysize = member.terms | where_exp: "term","term.end >= site.next-edition" | size -%}
 		{%- assign nullarraysize = member.terms | where_exp: "term","term.end == null" | size -%}
 		{%- if arraysize > 0 or nullarraysize > 0 -%}
 			<div class="media">

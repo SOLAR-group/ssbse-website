@@ -1,4 +1,4 @@
-- title: Professor
+- title: Prof.
   name: Federica Sarro (Chair)
   website: http://www0.cs.ucl.ac.uk/staff/F.Sarro/
   organisation: University College London (UCL), UK
@@ -9,7 +9,7 @@
     - start: 2022
       end: 2024
 
-- title: Professor
+- title: Prof.
   name: Phil McMinn
   website: https://www.sheffield.ac.uk/dcs/people/academic/pmcminn
   organisation: The University of Sheffield, UK
@@ -20,7 +20,7 @@
     - start: 2022
       end: 2024
 
-- title: Professor
+- title: Prof.
   name: Tim Menzies
   website: http://menzies.us/
   organisation: NC State University, US
@@ -38,7 +38,7 @@
     - start: 2018
       end: 2020
 
-- title: Professor
+- title: Prof.
   name: Shin Yoo
   website: https://coinse.kaist.ac.kr/members/shin.yoo/
   organisation: Korea Advanced Institute of Science and Technology, KR
@@ -68,6 +68,8 @@
   terms:
     - start: 2020
       end: 2022
+    - start: 2023
+      end: 2025
 
 - title: Dr.
   name: Mike Papadakis
@@ -86,3 +88,48 @@
   terms:
     - start: 2020
       end: 2022
+
+- title: Dr.
+  name: Andrea Arcuri
+  website: https://sites.google.com/site/arcuri82/?pli=1
+  organisation: Kristiania University College and Oslo Metropolitan University, NO
+  picture: img/steering_committee/andrea.jpg
+  terms:
+    - start: 2023
+      end: 2025
+
+- title: Prof.
+  name: Gordon Fraser
+  website: https://www.fim.uni-passau.de/en/chair-for-software-engineering-ii
+  organisation: University of Passau, DE
+  picture: img/steering_committee/gordon.jpg
+  terms:
+    - start: 2023
+      end: 2025
+
+- title: Dr.
+  name: Giovani Guizzo
+  website: http://www0.cs.ucl.ac.uk/staff/G.Guizzo/
+  organisation: University College London, UK
+  picture: img/steering_committee/giovani.jpg
+  terms:
+    - start: 2023
+      end: 2025
+
+- title: Dr.
+  name: Justyna Petke
+  website: http://www0.cs.ucl.ac.uk/staff/J.Petke/
+  organisation: University College London, UK
+  picture: img/steering_committee/justyna.jpg
+  terms:
+    - start: 2023
+      end: 2025
+
+- title: Prof.
+  name: Silvia Regina Vergilio
+  website: https://www.inf.ufpr.br/silvia/
+  organisation: Federal University of Paraná, BR
+  picture: img/steering_committee/silvia.jpg
+  terms:
+    - start: 2023
+      end: 2025
