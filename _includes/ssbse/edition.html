@@ -2,6 +2,10 @@
 
 <h3>{{edition.location}}</h3>
 
+{%- if edition.colocated != null and edition.colocated %}
+<h4>Co-located with {{edition.colocated}}</h4>
+{%- endif %}
+
 {%- if edition.website != null and edition.website %}
 <a class="fa fa-globe" href="{{'/' | append: edition.year | absolute_url}}" title="SSBSE {{edition.year}} homepage" target="_blank"> Website</a>
 {%- endif %}

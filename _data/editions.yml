@@ -15,18 +15,21 @@
   location: Szeged, Hungary
   proceedings: https://link.springer.com/book/10.1007/978-3-642-23716-4
   edition: 3rd
+  colocated: ESEC/FSE 2011
 
 - year: 2012
   website: http://selab.fbk.eu/ssbse2012/
   location: Riva del Garda, Trento, Italy
   proceedings: https://link.springer.com/book/10.1007/978-3-642-33119-0
   edition: 4th
+  colocated: ICSM 1012
 
 - year: 2013
   website: /2013
   location: St. Petersburg, Russia
   proceedings: https://link.springer.com/book/10.1007/978-3-642-39742-4
   edition: 5th
+  colocated: ESEC/FSE 2013
 
 - year: 2014
   website: /2014
@@ -39,49 +42,58 @@
   location: Bergamo, Milan, Italy
   proceedings: https://link.springer.com/book/10.1007/978-3-319-22183-0
   edition: 7th
+  colocated: ESEC/FSE 2015
 
 - year: 2016
   website: /2016
   location: Raleigh, North Carolina, USA
   proceedings: https://link.springer.com/book/10.1007/978-3-319-47106-8
   edition: 8th
+  colocated: ICSME 2016
 
 - year: 2017
   website: http://ssbse17.github.io/
   location: Paderborn, Germany
   proceedings: https://link.springer.com/book/10.1007/978-3-319-66299-2
   edition: 9th
+  colocated: ESEC/FSE 2017
 
 - year: 2018
   website: http://ssbse18.irisa.fr/
   location: Montpellier, France
   proceedings: https://link.springer.com/book/10.1007/978-3-319-99241-9
   edition: 10th
+  colocated: ASE 2018
 
 - year: 2019
   website: http://ssbse19.mines-albi.fr/
   location: Tallinn, Estonia
   proceedings: https://link.springer.com/book/10.1007/978-3-030-27455-9
   edition: 11th
+  colocated: ESE/FSE 2019
 
 - year: 2020
   website: http://ssbse2020.di.uniba.it/
   location: Online Event
   proceedings: https://link.springer.com/book/10.1007/978-3-030-59762-7
   edition: 12th
+  colocated: ESEIW 2020
 
 - year: 2021
   website: https://conf.researchr.org/home/ssbse-2021
   location: Bari, Italy
   edition: 13th
   proceedings: https://link.springer.com/book/10.1007/978-3-030-88106-1
+  colocated: ESEM 2021
 
 - year: 2022
   location: Singapore
   edition: 14th
   website: https://conf.researchr.org/home/ssbse-2022
   proceedings: https://link.springer.com/book/10.1007/978-3-031-21251-2
+  colocated: ESEC/FSE 2022
 
 - year: 2023
   edition: 15th
   location: San Francisco, USA
+  colocated: ESEC/FSE 2023
