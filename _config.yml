@@ -4,7 +4,7 @@
 title: SSBSE
 
 # Next SSBSE edition
-next-edition: 2023
+next-edition: 2024
 
 # SSBSE Charter
 charter: /SSBSE-charter.pdf
@@ -14,7 +14,6 @@ description: Symposium on Search Base Software Engineering
 
 # Website icon
 icon: /favicon.ico
-
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -97,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "SSBSE Home"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "SSBSE Home" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Collections ---
 # A collection named foo is located in folder "_foo".
@@ -136,14 +135,14 @@ gtag: "UA-78520864-4"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch: master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint: # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    siteKey: # Use your own site key, you need to apply for one on Google
+    secret: # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -175,45 +174,38 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
       type: "pages"
     values:
       layout: "page"
       show-avatar: true
-  -
-    scope:
+  - scope:
       path: "css" # all files
     values:
       layout: null
-  -
-    scope:
+  - scope:
       path: "2009"
     values:
       infobox: false
       layout: "2009/default"
-  -
-    scope:
+  - scope:
       path: "2010"
     values:
       infobox: false
       layout: "2010/default"
-  -
-    scope:
+  - scope:
       path: "2011"
     values:
       layout: "2011/default"
-  -
-    scope:
+  - scope:
       path: "2014"
     values:
       layout: none
@@ -234,8 +226,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE

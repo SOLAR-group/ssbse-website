@@ -98,3 +98,10 @@
   location: San Francisco, USA
   colocated: ESEC/FSE 2023
   website: https://conf.researchr.org/home/ssbse-2023
+  proceedings: https://link.springer.com/book/10.1007/978-3-031-48796-5
+
+- year: 2024
+  edition: 16th
+  location: Porto de Galinhas, Brazil
+  colocated: ESEC/FSE 2024
+  website: https://conf.researchr.org/home/ssbse-2024
