@@ -26,6 +26,13 @@
       link: https://link.springer.com/chapter/10.1007/978-3-319-47106-8_17
       track: Challenge
 
+- year: 2017
+  winners:
+   - authors: Michail Basios, Lingbo Li, Fan Wu, Leslie Kanthan and Earl Barr
+     title: "Optimising Darwinian Data Structures on Google Guava"
+     link: https://link.springer.com/chapter/10.1007/978-3-319-66299-2_14
+     track: Challenge
+
 - year: 2018
   winners:
     - authors: Gregory Gay
