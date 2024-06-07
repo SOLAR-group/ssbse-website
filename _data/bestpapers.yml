@@ -68,6 +68,25 @@
       link: https://link.springer.com/chapter/10.1007/978-3-319-47106-8_17
       track: Challenge
 
+- year: 2017
+  winners:
+    - authors: Andrea Arcuri
+      title: Many Independent Objective (MIO) Algorithm for Test Suite Generation
+      link: https://link.springer.com/chapter/10.1007/978-3-319-66299-2_1
+      track: Best Research Paper
+    - authors: Annibale Panichella, Fitsum Meshesha Kifetew and Paolo Tonella
+      title: LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation
+      link: https://link.springer.com/chapter/10.1007/978-3-319-66299-2_6
+      track: Distinguished Research Paper
+    - authors: José Campos, Yan Ge, Gordon Fraser, Marcelo Eler and Andrea Arcuri
+      title: An Empirical Evaluation of Evolutionary Algorithms for Test Suite Generation
+      link: https://link.springer.com/chapter/10.1007/978-3-319-66299-2_3
+      track: Distinguished Research Paper
+    - authors: Michail Basios, Lingbo Li, Fan Wu, Leslie Kanthan and Earl Barr
+      title: "Optimising Darwinian Data Structures on Google Guava"
+      link: https://link.springer.com/chapter/10.1007/978-3-319-66299-2_14
+      track: Challenge
+
 - year: 2018
   subtitle: Special 10th Anniversary
   winners:
