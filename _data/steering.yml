@@ -111,7 +111,7 @@
 - title: Dr.
   name: Giovani Guizzo
   website: https://sites.google.com/view/giovaniguizzo/home
-  organisation: Brick Abode, Brazil
+  organisation: Brick Abode, BR
   picture: img/steering_committee/giovani.jpg
   terms:
     - start: 2023
@@ -134,3 +134,21 @@
   terms:
     - start: 2023
       end: 2025
+
+- title: Dr.
+  name: Mitchell Olsthoorn
+  website: https://www.mitchellolsthoorn.com/
+  organisation:  Delft University of Technology, NL
+  picture: img/steering_committee/mitchel.jpg
+  terms:
+    - start: 2025
+      end: 2027
+
+- title: Dr.
+  name: Márcio de Oliveira Barros
+  website: https://ppgi.uniriotec.br/en/ppgi-professors/marcio-barros/
+  organisation:  Federal University of Rio de Janeiro, BR
+  picture: img/steering_committee/marcio.jpg
+  terms:
+    - start: 2025
+      end: 2027
