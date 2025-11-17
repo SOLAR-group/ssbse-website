@@ -48,6 +48,8 @@
       end: 2021
     - start: 2022
       end: 2024
+    - start: 2025
+      end: 2027
 
 - title: Dr.
   name: Gregory Gay
@@ -107,6 +109,8 @@
   terms:
     - start: 2023
       end: 2025
+    - start: 2025
+      end: 2027
 
 - title: Dr.
   name: Giovani Guizzo
@@ -138,7 +142,7 @@
 - title: Dr.
   name: Mitchell Olsthoorn
   website: https://www.mitchellolsthoorn.com/
-  organisation:  Delft University of Technology, NL
+  organisation: Delft University of Technology, NL
   picture: img/steering_committee/mitchel.jpg
   terms:
     - start: 2025
@@ -147,8 +151,44 @@
 - title: Dr.
   name: Márcio de Oliveira Barros
   website: https://ppgi.uniriotec.br/en/ppgi-professors/marcio-barros/
-  organisation:  Federal University of Rio de Janeiro, BR
+  organisation: Federal University of Rio de Janeiro, BR
   picture: img/steering_committee/marcio.jpg
+  terms:
+    - start: 2025
+      end: 2027
+
+- title: Prof.
+  name: Tao Yue
+  website: https://yue-tao.github.io/
+  organisation: Beihang University, CN
+  picture: img/steering_committee/tao-yue.jpg
+  terms:
+    - start: 2025
+      end: 2027
+
+- title: Dr.
+  name: Mijung Kim
+  website: https://mijungk.github.io/
+  organisation: UNIST, KR
+  picture: img/steering_committee/mijung.jpg
+  terms:
+    - start: 2025
+      end: 2027
+
+- title: Dr.
+  name: Carol Hanna
+  website: https://profiles.ucl.ac.uk/92957-carol-hanna
+  organisation: University College London, UK
+  picture: img/steering_committee/carol.jpg
+  terms:
+    - start: 2025
+      end: 2027
+
+- title: Dr.
+  name: Shin Hong
+  website: https://hongshin.github.io/
+  organisation: Chungbuk National University, KR
+  picture: img/steering_committee/shin-hong.jpg
   terms:
     - start: 2025
       end: 2027
