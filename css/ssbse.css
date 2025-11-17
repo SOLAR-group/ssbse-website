@@ -31,7 +31,9 @@ a.anchor {
 }
 
 .editionscontainer{
-  justify-content: flex-start | flex-end | center | space-between | space-around; text-align:center; width: 100%;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
 }
 
 /* --- Steering Members --- */
