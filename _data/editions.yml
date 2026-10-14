@@ -109,12 +109,20 @@
 
 - year: 2025
   edition: 17th
-  location:  Seoul, Republic of Korea
+  location: Seoul, Republic of Korea
   colocated: ASE 2025
   website: https://conf.researchr.org/home/ssbse-2025
+  proceedings: https://link.springer.com/book/10.1007/978-3-032-24839-8
 
 - year: 2026
   edition: 18th
-  location:  Montréal, Canada
-  colocated: ESEC/FSE 2026
+  location: Montréal, Canada
+  colocated: FSE 2026
   website: https://conf.researchr.org/home/ssbse-2026
+  proceedings: https://link.springer.com/book/10.1007/978-3-032-30699-9
+
+- year: 2027
+  edition: 19th
+  location: Shenzhen, China
+  colocated: FSE 2027
+  website: https://conf.researchr.org/home/fse-2027
