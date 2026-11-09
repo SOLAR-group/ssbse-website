@@ -67,7 +67,6 @@
   website: https://www.simula.no/people/shaukat
   organisation: Simula Research Laboratory, NO
   picture: img/steering_committee/shaukat.jpg
-  chair: true
   terms:
     - start: 2020
       end: 2022
@@ -86,7 +85,7 @@
 - title: Dr.
   name: Thomas Vogel
   website: https://thomas-vogel.github.io/
-  organisation:  Humboldt-Universität zu Berlin, DE
+  organisation: Humboldt-Universität zu Berlin, DE
   picture: img/steering_committee/thomas.jpg
   terms:
     - start: 2020
@@ -162,6 +161,7 @@
   website: https://yue-tao.github.io/
   organisation: Beihang University, CN
   picture: img/steering_committee/tao-yue.jpg
+  chair: true
   terms:
     - start: 2025
       end: 2027
@@ -192,3 +192,21 @@
   terms:
     - start: 2025
       end: 2027
+
+- title: Dr.
+  name: Wesley Klewerton Guez Assunção
+  website: https://wesleyklewerton.github.io/
+  organisation: North Carolina State University, US
+  picture: img/steering_committee/wesley.jpg
+  terms:
+    - start: 2026
+      end: 2028
+
+- title: Prof.
+  name: Ali Ouni
+  website: https://ouniali.github.io/
+  organisation: École de technologie supérieure (ÉTS Montréal), CA
+  picture: img/steering_committee/ouni.png
+  terms:
+    - start: 2026
+      end: 2028
